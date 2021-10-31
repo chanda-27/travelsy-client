@@ -1,18 +1,32 @@
-# [NEURO CARE | We care your mental health](https://neuro-care-001.web.app)
+# [Travelsy](https://travelsy-01.web.app)
 
-This project is build for psychology patient and for kids also. We care about your mental and physical health.
+Please visite my website [Travelsy](https://travelsy-01.web.app).
 
-## [Live Site Link](https://neuro-care-001.web.app): https://neuro-care-001.web.app
+### Raw Link
+https://travelsy-01.web.app
 
-## Description
+## `Assignment 11`
 
-1. It's a Firebase Authentication project where a user can sign up and login with both email/password and Google sign in.
-2. A user can view services in details. Also they can find out our location in maps.
-3. A user must be login for view service details and for sending email.
+### Client Repo Link:
+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-client-side-chanda-27
 
-## Used Packeges
+### Server Repo Link:
+https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-chanda-27
 
-1. React JS
-2. Firebase
-3. Leaflet (For Map)
-4. Swiper JS (For Carrousel Banner)
+### Live Website Link:
+https://travelsy-01.web.app
+
+## Core Features
+1. You can book package from home page. (Login required)
+2. Your checkout information will saved in database.
+3. Every time you login, you can check your orders.
+4. You can see your checkout date, time, your name, and email address in your Dashboard's "My Booking" page.
+5. Every important route is protected. You will never do anything without login.
+6. You can add packages from admin pannel. (Login required)
+7. You can sign in / login with your Google account. No extra information required.
+
+## Bonus Features
+1. Edit and Delete button is in working condition.
+2. Spinner added in home page and some other pages.
+3. .ENV file used in the server side.
+4. Page is fully responsive.
